@@ -1,5 +1,5 @@
-# Daily-Journal
-<h1>TITLE--Academia-SRM</h1>
+# Academia-SRM
+
 <a href="https://academia-srm-dummy.netlify.app/">Academia-SRM</a>
 Created using React.js, CSS and Deployed on Netlify.
          
